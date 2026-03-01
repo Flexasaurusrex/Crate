@@ -1,0 +1,13 @@
+{
+  "name": "crate",
+  "version": "1.0.0",
+  "description": "Physical media intelligence platform",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0",
+    "node-fetch": "^3.3.2"
+  }
+}
